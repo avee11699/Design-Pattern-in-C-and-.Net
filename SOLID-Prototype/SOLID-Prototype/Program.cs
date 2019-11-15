@@ -39,10 +39,10 @@ namespace SOLID_Prototype
 
         public Address(string streetName, int houseNumber)
         {
-            if (StreetName == null)
-            {
-                throw new ArgumentNullException(paramName: nameof(streetName));
-            }
+            //if (StreetName == null)
+            //{
+            //    throw new ArgumentNullException(paramName: nameof(streetName));
+            //}
             StreetName = streetName;
             HouseNumber = houseNumber;
         }
@@ -63,7 +63,14 @@ namespace SOLID_Prototype
         {
             var john = new Person(new[] { "John", "Smith" },
                 new Address("London Road", 123));
+
+            var jane = (Person)john.Clone();
+            jane.Address.HouseNumber = 321;
+            jane.Names[0] = "John";
+            
+
             WriteLine(john);
+            WriteLine(jane);
         }
     }
 }
