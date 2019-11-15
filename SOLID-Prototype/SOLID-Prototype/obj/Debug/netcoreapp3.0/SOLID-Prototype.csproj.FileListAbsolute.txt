@@ -1,0 +1,11 @@
+C:\Users\avneesh.chuttoor\source\repos\SOLID-Prototype\SOLID-Prototype\bin\Debug\netcoreapp3.0\SOLID-Prototype.exe
+C:\Users\avneesh.chuttoor\source\repos\SOLID-Prototype\SOLID-Prototype\obj\Debug\netcoreapp3.0\SOLID-Prototype.csprojAssemblyReference.cache
+C:\Users\avneesh.chuttoor\source\repos\SOLID-Prototype\SOLID-Prototype\obj\Debug\netcoreapp3.0\SOLID-Prototype.AssemblyInfoInputs.cache
+C:\Users\avneesh.chuttoor\source\repos\SOLID-Prototype\SOLID-Prototype\obj\Debug\netcoreapp3.0\SOLID-Prototype.AssemblyInfo.cs
+C:\Users\avneesh.chuttoor\source\repos\SOLID-Prototype\SOLID-Prototype\bin\Debug\netcoreapp3.0\SOLID-Prototype.deps.json
+C:\Users\avneesh.chuttoor\source\repos\SOLID-Prototype\SOLID-Prototype\bin\Debug\netcoreapp3.0\SOLID-Prototype.runtimeconfig.json
+C:\Users\avneesh.chuttoor\source\repos\SOLID-Prototype\SOLID-Prototype\bin\Debug\netcoreapp3.0\SOLID-Prototype.runtimeconfig.dev.json
+C:\Users\avneesh.chuttoor\source\repos\SOLID-Prototype\SOLID-Prototype\bin\Debug\netcoreapp3.0\SOLID-Prototype.dll
+C:\Users\avneesh.chuttoor\source\repos\SOLID-Prototype\SOLID-Prototype\bin\Debug\netcoreapp3.0\SOLID-Prototype.pdb
+C:\Users\avneesh.chuttoor\source\repos\SOLID-Prototype\SOLID-Prototype\obj\Debug\netcoreapp3.0\SOLID-Prototype.dll
+C:\Users\avneesh.chuttoor\source\repos\SOLID-Prototype\SOLID-Prototype\obj\Debug\netcoreapp3.0\SOLID-Prototype.pdb
